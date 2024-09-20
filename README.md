@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Simple_text_editor<br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with text editor<br>🌱 I’m currently learning go and JavaScript<br>💬 Ask me about python and java<br>⚡ Fun fact I used to be bad at programming
+🔭 I’m currently working on Simple_text_editor<br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with text editor<br>🌱 I’m currently learning go and JavaScript<br>💬 Ask me about python or java<br>⚡ Fun fact I used to be bad at programming
 
 
 ## 🌐 Socials:
